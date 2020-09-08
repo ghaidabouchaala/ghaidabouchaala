@@ -1,5 +1,5 @@
 <h1>Hi 👋, this is Ghaida!</h1>
-<p>I'm a passionate learner of Blockchain technology a web developer and a beginner into Data analysis and Machine Learning Algorithms📚 My key driver is my desire to be the best and what inspires me is that I strive to make social impact, build a brighter future for Tunisia...! 👑🤗</p>
+<p>I'm a passionate learner of Blockchain technology, a web developer and a beginner into Data analysis and applying Machine Learning Algorithms📚 My key driver is my desire to be the best and what inspires me is that I strive to make social impact, build a brighter future for Tunisia...! 👑🤗</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaidabouchaala" alt="ghaidabouchaala" /> </p>
 
