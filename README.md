@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and Django Framework**
 
-- 📝 I regulary write articles on (medium)
+- 📝 I often write articles on **medium**
 
 - ⚡ Fun fact **People call me Ghaida Blockchain :D**
 
