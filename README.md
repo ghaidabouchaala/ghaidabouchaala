@@ -9,8 +9,6 @@
 
 - 📝 I regulary write articles on (medium)
 
-- 📫 Reach me on my email **ghaida.bouchaala@gmail.com**
-
 - ⚡ Fun fact **People call me Ghaida Blockchain :D**
 
 <b>My Github Stats</b>:
@@ -32,7 +30,7 @@
 
 
 
-<b>Connect with me</b>
+<b>Connect with me:</b>
 
 <p align = "center">
 
