@@ -1,7 +1,7 @@
 <h1>Hi 👋, this is Ghaida!</h1>
 <p>I'm a passionate learner of Blockchain technology, a web developer and a beginner into Data analysis and applying Machine Learning Algorithms📚 My key driver is my desire to be the best and what inspires me is that I strive to make social impact, build a brighter future for Tunisia...! 👑🤗</p>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaidabouchaala" alt="ghaidabouchaala" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghaidabouchaala" alt="ghaidabouchaala" /> </p>
 
 - 🔭 I’m currently working on [A digital platform to facilitate interactions between students and the administration with in my institute.](https://romantic-fermi-a5e950.netlify.app/?fbclid=IwAR39-98eN1WfalPkacJWdg4OwtuKRaDcPEMXJXtqBsqRHO2Vzs92TtRZOGw)
 
@@ -12,7 +12,6 @@
 - ⚡ Fun fact **People call me Ghaida Blockchain :D**
 
 <b>My Github Stats</b>:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaidabouchaala&layout=compact&theme=calm" alt="ghaidabouchaala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaidabouchaala&show_icons=true&include_all_commits=True&count_private=True&theme=calm" alt="ghaidabouchaala"/></p>
 
