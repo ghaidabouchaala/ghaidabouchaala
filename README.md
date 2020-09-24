@@ -12,6 +12,7 @@
 - ⚡ Fun fact **People call me Ghaida Blockchain :D**
 
 <b>My Github Stats</b>:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghaidabouchaala&layout=compact&theme=calm" alt="ghaidabouchaala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghaidabouchaala&show_icons=true&include_all_commits=True&count_private=True&theme=calm" alt="ghaidabouchaala"/></p>
 
